@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software and the associated article."
+title: "HIV-1 Gag-nucleocapsid mutation analysis"
+abstract: "R code for identifying and classifying amino-acid substitutions across positions 1–55 of the HIV-1 Gag-nucleocapsid region. Substitutions are classified as non-polymorphic NC resistance-associated mutations, polymorphic NC mutations, or other non-polymorphic mutations without conclusive evidence of phenotypic drug resistance."
+type: software
+version: 1.0.0
+
+authors:
+  - family-names: "Van Zyl"
+    given-names: "Gert U."
+    affiliation: "Division of Medical Virology, Faculty of Medicine and Health Sciences, Stellenbosch University"
+
+keywords:
+  - "HIV-1"
+  - "Gag-nucleocapsid"
+  - "dolutegravir"
+  - "drug resistance"
+  - "resistance-associated mutations"
+  - "R"
+  - "sequence analysis"
+
+repository-code: "https://github.com/GertvZ/HIV1-NC-mutation-analysis"
